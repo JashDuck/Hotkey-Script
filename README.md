@@ -1,5 +1,5 @@
 # Hotkey-Script
->This is something I use on a regular basis.
+>This is something I use multiple times every day.
 
 Script that allows me to do many things with just hotkeys.
 
